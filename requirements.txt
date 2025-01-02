@@ -1,0 +1,7 @@
+pinecone-client
+pinecone-text
+langchain-community
+python_dotenv
+langchain_huggingface
+langchain-community
+langchain_groq 
