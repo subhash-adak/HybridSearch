@@ -5,3 +5,5 @@ python_dotenv
 langchain_huggingface
 langchain-community
 langchain_groq 
+bs4
+PyPDF2
